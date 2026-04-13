@@ -12,3 +12,5 @@ Le projet prend la forme d'un tableau HTML écrit dans le fichier index.html :
 - date de dernière modification, la date où la ligne du tableau HTML a été modifiée pour la dernière fois
 
 Le tableau HTML doit être trié alphabétiquement sur le titre, et en l'absence de titre sur la côte.
+
+Pour déployer sur vercel, lancer cette commande : npx vercel deploy --prod --scope slandais-projects

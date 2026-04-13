@@ -1,0 +1,9 @@
+{
+  "name": "biblio-amhe-local-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Outils locaux pour collecter des sources bibliographiques",
+  "scripts": {
+    "fetch:source": "node local-tools/fetch-source.mjs"
+  }
+}
