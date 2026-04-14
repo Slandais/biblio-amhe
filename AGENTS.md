@@ -13,4 +13,6 @@ Le projet prend la forme d'un tableau HTML écrit dans le fichier index.html :
 
 Le tableau HTML doit être trié alphabétiquement sur le titre, et en l'absence de titre sur la côte.
 
+Le contenu du tableau HTML doit être écrit en HTML dans le fichier index.html, il ne faut pas stocker les données en json.
+
 Pour déployer sur vercel, lancer cette commande : npx vercel deploy --prod --scope slandais-projects

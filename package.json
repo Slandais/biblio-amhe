@@ -5,5 +5,8 @@
   "description": "Outils locaux pour collecter des sources bibliographiques",
   "scripts": {
     "fetch:source": "node local-tools/fetch-source.mjs"
+  },
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
   }
 }
