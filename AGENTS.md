@@ -1,4 +1,4 @@
-Le projet consiste à créer la bibliographie la plus exhaustive des ouvrages pouvant servir de sources aux AMHE (Arts Martiaux Historiques Européens).
+﻿Le projet consiste à créer la bibliographie la plus exhaustive des ouvrages pouvant servir de sources aux AMHE (Arts Martiaux Historiques Européens).
 
 Le projet prend la forme d'un tableau HTML écrit dans le fichier index.html :
 
