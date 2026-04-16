@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "biblio-amhe-local-tools",
   "private": true,
   "version": "1.0.0",
@@ -6,7 +6,6 @@
   "scripts": {
     "fetch:source": "node local-tools/fetch-source.mjs",
     "scrape:bnf": "node local-tools/scrape-bnf.mjs",
-    "scrape:books2ebooks": "node local-tools/scrape-books2ebooks.mjs",
     "scrape:worldcat": "node local-tools/scrape-worldcat.mjs"
   },
   "dependencies": {
